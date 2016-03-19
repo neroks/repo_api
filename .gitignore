@@ -1,0 +1,13 @@
+
+# Compiled source #
+###################
+*.pyc
+
+# Idea settings #
+#################
+.idea/*
+
+pecific paths #
+##########################
+settings_local.py
+
